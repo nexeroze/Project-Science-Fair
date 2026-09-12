@@ -10,5 +10,6 @@ Install Python using: winget install Python.Python.3.13 --silent --accept-packag
 
 For Ollama:
 Install ollama using: irm https://ollama.com/install.ps1 | iex
+
 Then run this command in powershell: ollama pull llama3.2:3b
 
