@@ -1,0 +1,4 @@
+# Python 3.10+ and Tkinter are required. Tkinter comes with the normal Windows installer.
+# BLE (GATT) and classic Bluetooth serial both work with ESP32 boards.
+bleak>=0.22,<2.0
+pyserial>=3.5,<4.0
