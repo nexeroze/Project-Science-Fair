@@ -1,3 +1,0 @@
-# Python 3.10+ and Tkinter are required. Tkinter comes with the normal Windows installer.
-# BLE is optional; the app works in local demo mode without a device.
-bleak>=0.22,<2.0
